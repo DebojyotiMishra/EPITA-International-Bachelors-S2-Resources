@@ -1,0 +1,95 @@
+Calais		-200	1200
+Nancy		534
+Paris		297
+Caen		450
+
+Caen		-600	730
+Calais		450
+Paris		241
+Rennes		176
+
+Brest		-1400	560
+Rennes		244
+
+Rennes		-910	480
+Caen		176
+Paris		348
+Nantes 		107
+Brest		244
+
+Paris		-190	640
+Calais		297
+Nancy		372
+Dijon		313
+Limoges		396
+Rennes		348
+Caen            241
+
+Nancy		510	600
+Strasbourg	145
+Dijon		201
+Paris		372
+Calais		534
+
+Strasbourg	800	600
+Dijon		335
+Nancy		145
+
+Nantes		-910	220
+Rennes		107
+Limoges		329
+Bordeaux	329
+
+Dijon		315	220
+Nancy		201
+Strasbourg	335
+Lyon		192
+Paris		313
+
+Limoges		-380	-190
+Paris		396
+Lyon		389
+Toulouse	313
+Bordeaux	220
+Nantes		329
+
+Lyon		290	-215
+Dijon		192
+Grenoble	104
+Avignon		216
+Limoges		389
+
+Grenoble	470	-370
+Avignon		227
+Lyon		104
+
+Bordeaux	-740	-470
+Nantes		329
+Limoges		220
+Toulouse	259
+
+Toulouse	-350	-830
+Limoges		313
+Montpellier	240
+Bordeaux	259
+
+Montpellier	120	-830
+Avignon		91
+Toulouse	240
+
+Avignon		310	-730
+Lyon		216
+Grenoble	227
+Marseille	99
+Montpellier	91
+
+Marseille	430	-910
+Nice		158
+Avignon		99
+
+Nice		810	-790
+Marseille	158
+Moulins		750
+
+Moulins		0	0
+Nice		750
