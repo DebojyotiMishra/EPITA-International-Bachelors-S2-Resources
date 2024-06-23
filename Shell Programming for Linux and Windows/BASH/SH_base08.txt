@@ -1,0 +1,44 @@
+SH_1
+#!/bin/bash
+# Here is an array of fruits
+fruits=("pear" "apple" "prune" "cherry" "raspberry")
+
+# TODO - Display second and fourth fruit
+
+# TODO - Display number of fruits 
+
+
+SH_2
+#!/bin/bash
+
+# TODO – print all command parameters, each on a separate line
+
+
+SH_3
+#!/bin/bash
+
+# TODO - test is the file given as argument1 is a text file
+#        and display the information as one word TEXT or NO-TEXT
+
+
+SH_4
+#!/bin/bash
+# TODO - ask input from the user
+
+# TODO - Display ALPHA or NUM only if input is a single letter and
+#        is alphabetic or alphanumeric, no display in other cases.
+
+
+SH_5
+#!/bin/bash
+
+# TODO – check that the string given as argument one is correct as
+#        an assignment email object: B24S_#_NAME
+
+
+SH_6
+#!/bin/bash
+
+# TODO - display EQUAL or NO-EQUAL only if the two arguments
+#        can be compared as numbers
+
